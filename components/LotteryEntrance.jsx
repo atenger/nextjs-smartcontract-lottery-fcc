@@ -112,7 +112,7 @@ export default function LotteryEntrance() {
                     <div>Recent Winner: {recentWinner}</div>
                 </div>
             ) : (
-                <div> no raffle address detected on this chain</div>
+                <div> No raffle address detected on this chain. </div>
             )}
         </div>
     )
